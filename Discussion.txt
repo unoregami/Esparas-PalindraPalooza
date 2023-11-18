@@ -1,0 +1,2 @@
+Discussion:
+The program consist of Nodes to hold the data of each character of the string, a linked list where we store each succession of every character that acts as a list, and that list is a stack. The program works well and tested with every palindrome sentences, and words that I could think of. I approached this challenge by dismantling the sentence and put it all together as a string whilst ignoring punctuations, and other characters than letters as stated by the instructions.
